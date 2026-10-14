@@ -36,11 +36,11 @@ Il progetto rappresenta l'evoluzione in ambiente grafico della versione da termi
 
 | Menu principale | Schermata di piazzamento |
 | :---: | :---: |
-| ![Menu](docs/screenshot-menu.png) | ![Piazzamento](docs/screenshot-piazzamento.png) |
+| ![Menu](screenshot-menu.png) | ![Piazzamento](screenshot-piazzamento.png) |
 
 | Fase di battaglia | Schermata di vittoria o sconfitta |
 | :---: | :---: |
-| ![Battaglia](docs/screenshot-battaglia.png) | ![Fine](docs/screenshot-vittoria.png) |
+| ![Battaglia](screenshot-battaglia.png) | ![Fine](screenshot-vittoria.png) |
 
 ---
 
